@@ -1,6 +1,4 @@
 select * from Prod_Data;
-/*alter table prod_data rename column 'Manufactured Qty' to Manufactured_Qty;*/
-select count(*) as total_records from Prod_Data;
 
 
 create table Prod_Data (
