@@ -1,5 +1,5 @@
 # Manufacturing_Dashboard
-<b>Overview:</b>
+<b>Overview:</b>  
 •  Developed and maintained a Power BI dashboard to track key manufacturing metrics for a custom label production company, focusing on production volume, production time, inventory levels, and order fulfillment rates.
 •  Collaborated with cross-functional teams (production, quality control, sales) to consolidate data from ERP systems, production databases, and Excel, ensuring seamless data integration and accuracy.
 •  Designed interactive and real-time Power BI visualizations, enabling stakeholders to monitor operational performance and optimize workflow efficiencies.
